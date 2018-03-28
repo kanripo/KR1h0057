@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 四書講義困勉錄
-#+DATE: 2018-03-28 13:09:46.659794
+#+DATE: 2018-03-28 13:09:47.110817
 #+PROPERTY: ID KR1h0057
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷二十六
 <pb:KR1h0057_WYG_027-1a>¶
 欽定四庫全書¶

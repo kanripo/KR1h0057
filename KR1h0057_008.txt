@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 四書講義困勉錄
-#+DATE: 2018-03-28 13:09:46.505978
+#+DATE: 2018-03-28 13:09:46.948567
 #+PROPERTY: ID KR1h0057
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷七
 <pb:KR1h0057_WYG_008-1a>¶
 　四書講義困勉録卷七¶

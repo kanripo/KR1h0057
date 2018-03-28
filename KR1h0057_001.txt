@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 四書講義困勉錄
-#+DATE: 2018-03-28 13:09:46.387912
+#+DATE: 2018-03-28 13:09:46.838058
 #+PROPERTY: ID KR1h0057
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 原序
 四書講義困勉録原序¶
 稼書先生既㸃定四書大全輔以蒙引存疑諸解羽翼¶
