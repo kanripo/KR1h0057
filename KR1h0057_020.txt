@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 四書講義困勉錄
-#+DATE: 2018-03-30 13:56:47.277197
+#+DATE: 2018-03-30 14:14:57.299719
 #+PROPERTY: ID KR1h0057
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
